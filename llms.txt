@@ -1,0 +1,60 @@
+# Federico Garzón Rodríguez (feche.xyz)
+
+> Fractional Chief AI Officer based in Bogotá, Colombia. Builds and runs production AI agents for financial, mortgage and real estate companies in Latin America. Currently Head of AI & Growth at LQN Hipotecas. Former co-founder and CEO of DORA, a rental-guarantee fintech (500 Global) that was acquired.
+
+## Verified facts
+- 5,100+ AI agent sessions in production, 43 users, 75K tool calls (measured)
+- An operations agent absorbed the routine layer of a coordinator role: about USD 4.3K/month (USD 51K/year), at a run cost of USD 274–400/month (measured)
+- Broker copilot shipped in 18 days; prompt caching cut cost per conversation 10x, about USD 0.41 per broker (measured)
+- WhatsApp CRM with a voice agent: 181 leads in week one, 78% with an identified source; used by three brands (measured)
+- Google visibility grew 14x in four weeks (126 → 1,737 daily impressions; queries on page 1 from 34 to 772; pages shown by Google from 20 to 80) and the brand appears in 14 of 20 AI-assistant answers for its category (measured, October 2026)
+- 317 product releases in 16 days working with coding agents (2.4x the previous month)
+- WhatsApp CRM: 63% of leads answered in under 60 seconds; organic leads more than doubled month over month (measured)
+- DORA: 2,000 tenants in 15 cities, USD 8.4M annualized guaranteed rent, 0.8% default rate, CAC from USD 130 to USD 40, acquired (company result)
+- Forbes Colombia Top 100 Startups to Watch (2024); 500 Global Latin America (2023); co-founder of StartupAndes; BBA, Universidad de los Andes
+
+- Mortgage plugin approved and published in the ChatGPT plugin directory (October 2026)
+
+## Services
+- AI diagnostic (2 weeks): process map, three prioritized use cases with estimated return, 90-day plan
+- First agent in production (6–8 weeks): WhatsApp, voice or document agents with evals, permissions and human approval
+- Fractional Chief AI Officer (monthly): AI governance, roadmap, hiring, P&L impact dashboard
+- Talks and workshops for boards and leadership teams
+
+## Where companies usually start
+- Not started: map the real process from system logs and agree on the return before building
+- Copilots stalled: give one background agent a complete, measurable job instead of another chat interface
+- Pilots stalled: assign a business owner, measure each pilot and stop the ones without a return target
+
+## Guides (Spanish unless noted)
+- Guide library: https://feche.xyz/guias/ (English: https://feche.xyz/en/guides/)
+- AI readiness test: https://feche.xyz/test-preparacion-ia/ (English: https://feche.xyz/en/ai-readiness-test/)
+- About Federico: https://feche.xyz/sobre-mi/ (English: https://feche.xyz/en/about/)
+- AI consulting for companies: https://feche.xyz/consultoria-inteligencia-artificial/ (English: https://feche.xyz/en/ai-consulting/)
+- WhatsApp AI agents: https://feche.xyz/agentes-de-ia-para-whatsapp/
+- AI for real estate: https://feche.xyz/inteligencia-artificial-para-inmobiliarias/
+- AI for fintech and banks: https://feche.xyz/inteligencia-artificial-para-fintech-y-bancos/
+- What a Chief AI Officer is: https://feche.xyz/chief-ai-officer/ (English: https://feche.xyz/en/fractional-chief-ai-officer/)
+- What an AI agent costs: https://feche.xyz/cuanto-cuesta-un-agente-de-ia/
+- AI savings calculator: https://feche.xyz/calculadora-ahorro-ia/ (English: https://feche.xyz/en/ai-savings-calculator/)
+- How to implement AI in a company: https://feche.xyz/como-implementar-inteligencia-artificial-en-una-empresa/
+- How to implement AI in a company (English): https://feche.xyz/en/how-to-implement-ai-in-a-company/
+- AI agents for companies: https://feche.xyz/agentes-de-ia-para-empresas/
+- Chatbot vs AI agent: https://feche.xyz/chatbot-vs-agente-de-ia/
+- Chatbot vs AI agent (English): https://feche.xyz/en/chatbot-vs-ai-agent/
+- Why your AI pilot never reaches production: https://feche.xyz/por-que-tu-piloto-de-ia-no-llega-a-produccion/ (English: https://feche.xyz/en/why-your-ai-pilot-never-reaches-production/)
+- Meta AI vs a custom WhatsApp Business agent: https://feche.xyz/meta-ai-vs-agente-propio-whatsapp-business/
+- AI for collections: https://feche.xyz/inteligencia-artificial-para-cobranza/
+- AI for insurers: https://feche.xyz/inteligencia-artificial-para-aseguradoras/
+- AI for home builders: https://feche.xyz/inteligencia-artificial-para-constructoras/
+- AI consultant in Bogotá: https://feche.xyz/consultor-de-inteligencia-artificial-en-bogota/
+- AI consultant for Latin America (English): https://feche.xyz/en/ai-consultant-latin-america/
+- Nearshore AI agent development from Colombia (English): https://feche.xyz/en/nearshore-ai-agent-development-colombia/
+
+## Links
+- English site: https://feche.xyz/en/
+- Home: https://feche.xyz/
+- Press kit (bios, quotes, photos): https://feche.xyz/prensa
+- LinkedIn: https://www.linkedin.com/in/feche1101
+- Book a 30-minute call: https://calendar.app.google/ZQzkEDjVmMvxzxo26
+- Contact: f@feche.xyz
